@@ -1,0 +1,2 @@
+# Project for GUI Design with QT/MONO class
+This project aims to design an electronic hardware which has 3 Lamps for heating a wooden case and 1 fan for cooling it down into demanded temperature by the user via a GUI. Electronic hardware design will be handled in Autodesk Eagle and software design will be done using QT/MONO frameworks. 
