@@ -75,3 +75,4 @@ GPIO::~GPIO()
   unexxport << this->_pin_number;
   unexxport.close();
 }
+
